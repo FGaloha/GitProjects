@@ -1,9 +1,10 @@
 body {
 	margin: 0;
 	font-family: Helvetica ;
+	background-image: url(../media/img1.png) ;
 }
 
-img :logo {
+/*:logo {
 	height: 80px;
 	width: 80px;
 }
@@ -15,3 +16,4 @@ img :logo {
 	justify-content: center;
 	height: 100vh;
 }
+*/
