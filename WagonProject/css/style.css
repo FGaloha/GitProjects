@@ -2,11 +2,15 @@ body {
 	margin: 0;
 	font-family: Helvetica ;
 	background-image: url(../media/img1.png) ;
+	font-family: sans-serif;
+	color: rgb(6, 83, 70);
+
 }
 
-/*:logo {
-	height: 80px;
-	width: 80px;
+:logo {
+	height:auto;
+	width: auto;
+	opacity: 0.1;
 }
 
 :container {
@@ -16,4 +20,3 @@ body {
 	justify-content: center;
 	height: 100vh;
 }
-*/
